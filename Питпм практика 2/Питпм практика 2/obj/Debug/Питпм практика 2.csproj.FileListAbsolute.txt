@@ -1,0 +1,7 @@
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\bin\Debug\Питпм практика 2.exe.config
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\bin\Debug\Питпм практика 2.exe
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\bin\Debug\Питпм практика 2.pdb
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\obj\Debug\Питпм практика 2.csproj.AssemblyReference.cache
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\obj\Debug\Питпм практика 2.csproj.CoreCompileInputs.cache
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\obj\Debug\Питпм практика 2.exe
+C:\Users\ssefy\source\repos\Питпм практика 2\Питпм практика 2\obj\Debug\Питпм практика 2.pdb
